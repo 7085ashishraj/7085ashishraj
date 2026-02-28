@@ -37,14 +37,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7085ashishraj&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7085ashishraj&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7085ashishraj&theme=radical" alt="Ashish's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7085ashishraj&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7085ashishraj&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
