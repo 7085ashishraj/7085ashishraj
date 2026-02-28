@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **Advanced Cloud Architectures, Python, and Modern Frontend Technologies**
 - 👯 I’m looking to collaborate on **Open Source Projects and Full Stack Web Apps**
 - 💬 Ask me about **Python, React, API Design, and System Architecture**
+- 📫 How to reach me: **Check out my links in the Connect section below! 👇**
 - ⚡ Fun fact: **I can help track down bugs faster than they can cause deadlocks!**
 
 ---
@@ -48,8 +49,28 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7085ashishraj&bg_color=0D1117&color=12c6a0&line=c225a0&point=f0f1c6&area=true&hide_border=true" width="100%" alt="activity-graph graph" /> 
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7085ashishraj/7085ashishraj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7085ashishraj/7085ashishraj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7085ashishraj/7085ashishraj/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <h3>Let's Connect:</h3>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-raj-47a120277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ashishrajstm2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
